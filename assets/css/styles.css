@@ -842,6 +842,10 @@ body[data-theme="dark"] .text-muted {
   letter-spacing: 2px;
 }
 
+.list_desc li{
+  letter-spacing: 2px;
+}
+
 .languages .item .svg-inline--fa {
   color: #479fc8;
 }
