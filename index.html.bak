@@ -209,7 +209,6 @@
                             </div>
                             <!--//item-->
                             <hr class="divider" />
-							<!--
                             <div class="item row">
                                 <a class="col-md-4 col-12" href="https://pokemonapp-api.herokuapp.com" target="_blank">
                                     <img class="img-fluid project-image rounded shadow-sm"
@@ -226,10 +225,8 @@
                                             target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a>
                                     </p>
                                 </div>
-                                
+                                <!--//desc-->
                             </div>
-							-->
-							
                             <!--//item-->
 
                             <div class="item row">
@@ -265,24 +262,6 @@
                                         XD files. We used task runner like Guld and LESS preprocessor. We also made the
                                         backend part manageable with ACF Pro plugin</p>
                                     <p><a class="more-link" href="https://drandreoliveira.com.br/" target="_blank"><i
-                                                class="fas fa-external-link-alt"></i>Find out more</a></p>
-                                </div>
-                                <!--//desc-->
-                            </div>
-                            <!--//item-->
-							
-						    <div class="item row">
-                                <a class="col-md-4 col-12" href="https://www.travelplanners.com.br/" target="_blank">
-                                    <img class="img-fluid project-image rounded shadow-sm"
-                                        src="assets/images/projects/travel.png" alt="project name" />
-                                </a>
-                                <div class="desc col-md-8 col-12">
-                                    <h3 class="title"><a href="https://www.travelplanners.com.br/"
-                                            target="_blank">Wordpress custom theme development</a></h3>
-                                    <p class="mb-2">This theme is a custom theme coded from absolute scratch, from Adobe
-                                        XD files.This is a Multisite. We used task runner like Guld and LESS preprocessor. We also made the
-                                        backend part manageable with ACF Pro plugin</p>
-                                    <p><a class="more-link" href="https://www.travelplanners.com.br/" target="_blank"><i
                                                 class="fas fa-external-link-alt"></i>Find out more</a></p>
                                 </div>
                                 <!--//desc-->
