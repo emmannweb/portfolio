@@ -103,22 +103,67 @@
                     <div class="section-inner shadow-sm rounded">
                         <h2 class="heading">Latest Projects</h2>
                         <div class="content">
-
-                            <div class="item featured text-center">
+						
+						 <div class="item featured text-center">
 
                                 <div class="featured-image has-ribbon">
-                                    <a href="https://linktreeapp.herokuapp.com/linktree/dr-felipe-jonas"
+                                    <a href="#"
                                         target="_blank">
                                         <img class="img-fluid project-image rounded shadow-sm"
-                                            src="assets/images/projects/linktreeapp.png" alt="LinkTree App" />
+                                            src="assets/images/projects/jobportalfront.png" alt="Job portal App" />
                                     </a>
                                     <div class="ribbon">
                                         <div class="text">New</div>
                                     </div>
                                 </div>
+								
+								 <div class="featured-image has-ribbon">
+                                    <a href="#"
+                                        target="_blank">
+                                        <img class="img-fluid project-image rounded shadow-sm"
+                                            src="assets/images/projects/dashboardjob.png" alt="Job portal App" />
+                                    </a>
+                                </div>
 
                                 <h3 class="title mb-3"><a
-                                        href="https://linktreeapp.herokuapp.com/linktree/dr-felipe-jonas"
+                                        href="#"
+                                        target="_blank">Job portal App</a></h3>
+
+                                <div class="desc text-start">
+                                    <p> This App will allow human ressources workers to post  jobs on the platform, each user can see only his posted jobs.
+									Anyone can create job category, see users in the system, see dashboard main page, etc.. <br/>This project is made with MUI: Material UI.</p>
+                                    <h4>Features:</h4>
+                                    <ul class="list_desc">
+                                        <li>Software Architecture: MVC pattern</li>
+                                      
+                                        <li>Admin dashboard, pagination, Datagrid, etc.</li>
+										<li>Form with Formik and Yup for validation </li>
+                                        <li>Modern authentication system with JWT and cookie;</li>
+										 <li>Sarch, filter by category and location;</li>
+                                        <li>Toast notification;</li>
+										 <li>Mobile friendly;</li>
+                                     
+                                    </ul>
+                                    <p>Demo: https://youtu.be/Gm1izUnovc8</p>
+                                </div>
+                                <!--//desc-->
+                                <!-- <a class="btn btn-cta-secondary" href="https://themes.3rdwavemedia.com/bootstrap-templates/startup/launch-bootstrap-4-template-for-saas-businesses/" target="_blank"><i class="fas fa-thumbs-up"></i> Back my project</a>                  -->
+                            </div>
+							  <hr class="divider" />
+
+                            <div class="item featured text-center">
+
+                                <div class="featured-image has-ribbon">
+                                    <a href="https://linktree-mern.onrender.com/linktree/dr-felipe-jonas"
+                                        target="_blank">
+                                        <img class="img-fluid project-image rounded shadow-sm"
+                                            src="assets/images/projects/linktreeapp.png" alt="LinkTree App" />
+                                    </a>
+                                 
+                                </div>
+
+                                <h3 class="title mb-3"><a
+                                        href="https://linktree-mern.onrender.com/linktree/dr-felipe-jonas"
                                         target="_blank">LinkTree App</a></h3>
 
                                 <div class="desc text-start">
@@ -150,7 +195,7 @@
                             <div class="item featured text-center">
 
                                 <div class="featured-image ">
-                                    <a href="https://eshopappltd.herokuapp.com/" target="_blank">
+                                    <a href="https://eshopappltd.onrender.com" target="_blank">
                                         <img class="img-fluid project-image rounded shadow-sm"
                                             src="assets/images/projects/dashboard.png" alt="electronic shop ltd" />
                                     </a>
@@ -159,7 +204,7 @@
                                     </div> -->
                                 </div>
                                 <div class="featured-image ">
-                                    <a href="https://eshopappltd.herokuapp.com/" target="_blank">
+                                    <a href="https://eshopappltd.onrender.com" target="_blank">
                                         <img class="img-fluid project-image rounded shadow-sm"
                                             src="assets/images/projects/new-eshopappltd.png"
                                             alt="electronic shop ltd" />
@@ -169,7 +214,7 @@
                                     </div> -->
                                 </div>
 
-                                <h3 class="title mb-3"><a href="https://eshopappltd.herokuapp.com/"
+                                <h3 class="title mb-3"><a href="https://eshopappltd.onrender.com"
                                         target="_blank">E-commerce Web App</a></h3>
 
                                 <div class="desc text-start">
@@ -184,7 +229,7 @@
                                         <li> HOC (High Order Component) / Reusable Dashboard Layout</li>
                                         <li> Dashboard Analytic</li>
                                         <li> Responsive App / UI: Material Design for Bootstrap (MDB)</li>
-                                        <li>Software Architecture: MVC pattern</li>
+                                     
                                         <li>User Dashboard / user profile / purchase history</li>
                                         <li>Check out process to payment</li>
                                         <li>Admin Dashboard</li>
@@ -209,7 +254,7 @@
                             </div>
                             <!--//item-->
                             <hr class="divider" />
-							<!--
+                            <!--
                             <div class="item row">
                                 <a class="col-md-4 col-12" href="https://pokemonapp-api.herokuapp.com" target="_blank">
                                     <img class="img-fluid project-image rounded shadow-sm"
@@ -229,10 +274,10 @@
                                 
                             </div>
 							-->
-							
+
                             <!--//item-->
 
-                            <div class="item row">
+                            <!-- <div class="item row">
                                 <a class="col-md-4 col-12" href="https://emmannweb.github.io/github-user-finder"
                                     target="_blank">
                                     <img class="img-fluid project-image rounded shadow-sm"
@@ -248,10 +293,11 @@
                                     <p><a class="more-link" href="https://emmannweb.github.io/github-user-finder"
                                             target="_blank"><i class="fas fa-external-link-alt"></i>Find out more</a>
                                     </p>
-                                </div>
-                                <!--//desc-->
-                            </div>
+                                </div> -->
+                            <!--//desc-->
+                            <!-- </div> -->
                             <!--//item-->
+                            <!-- <hr class="divider" /> -->
 
                             <div class="item row">
                                 <a class="col-md-4 col-12" href="https://drandreoliveira.com.br/" target="_blank">
@@ -270,8 +316,9 @@
                                 <!--//desc-->
                             </div>
                             <!--//item-->
-							
-						    <div class="item row">
+                            <hr class="divider" />
+
+                            <div class="item row">
                                 <a class="col-md-4 col-12" href="https://www.travelplanners.com.br/" target="_blank">
                                     <img class="img-fluid project-image rounded shadow-sm"
                                         src="assets/images/projects/travel.png" alt="project name" />
@@ -280,7 +327,8 @@
                                     <h3 class="title"><a href="https://www.travelplanners.com.br/"
                                             target="_blank">Wordpress custom theme development</a></h3>
                                     <p class="mb-2">This theme is a custom theme coded from absolute scratch, from Adobe
-                                        XD files.This is a Multisite. We used task runner like Guld and LESS preprocessor. We also made the
+                                        XD files.This is a Multisite. We used task runner like Guld and LESS
+                                        preprocessor. We also made the
                                         backend part manageable with ACF Pro plugin</p>
                                     <p><a class="more-link" href="https://www.travelplanners.com.br/" target="_blank"><i
                                                 class="fas fa-external-link-alt"></i>Find out more</a></p>
