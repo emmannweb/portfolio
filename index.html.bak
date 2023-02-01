@@ -139,7 +139,7 @@
                                         <li>Admin dashboard, pagination, Datagrid, etc.</li>
 										<li>Form with Formik and Yup for validation </li>
                                         <li>Modern authentication system with JWT and cookie;</li>
-										 <li>Sarch, filter by category and location;</li>
+										 <li>Sarch job, filter job by category and location;</li>
                                         <li>Toast notification;</li>
 										 <li>Mobile friendly;</li>
                                      
